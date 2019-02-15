@@ -1,0 +1,14 @@
+# IDE
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.userprefs
+
+# Build results
+bin/
+tmp/
